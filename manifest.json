@@ -76,7 +76,7 @@
       "name": "小杉駅前(東急)",
       "short_name": "小杉駅前(東急バス)",
       "description": "小杉駅前(東急バス)",
-      "url": "redirect.html?url=https%3A%2F%2Ftokyu.bus-location.jp%2Fblsys%2Fnavis%3FVID%3Dtmi%26EID%3Dnt%26FID%3D%26DSMK%3D3139%26DSN%3D%25E5%25B0%258F%25E6%259D%2589%25E9%25A7%2585%25E5%2589%258D%26PRM%3D%26SCT%3D1%26RAMK%3D70",
+      "url": "redirect.html?url=https%3A%2F%2Ftokyu.bus-location.jp%2Fblsys%2Fnavis%3FVID%3Drsl%26EID%3Dnt%26PRM%3D%26SCT%3D1%26DSMK%3D3139%26DSN%3D%25E5%25B0%258F%25E6%259D%2589%25E9%25A7%2585%25E5%2589%258D%26ASMK%3D0%26ASN%3Dnull%26FDSN%3D0%26FASN%3D0%26RAMK%3D70",
       "icons": [
         {
           "src": "images/tokyu.png",
