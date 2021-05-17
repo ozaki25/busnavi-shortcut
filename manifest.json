@@ -55,7 +55,7 @@
       "url": "redirect.html?url=https%3A%2F%2Ftokyu.bus-location.jp%2Fblsys%2Fnavi%3FVID%3Drsl%26EID%3Dnt%26PRM%3D%26SCT%3D1%26DSMK%3D3030%26DSN%3D%25E5%258D%2597%25E9%2587%258E%25E5%25B7%259D%26ASMK%3D0%26ASN%3Dnull%26FDSN%3D0%26FASN%3D0%26RAMK%3D70",
       "icons": [
         {
-          "src": "images/icons/icon-192x192.png",
+          "src": "images/tokyu.png",
           "sizes": "192x192"
         }
       ]
@@ -67,7 +67,7 @@
       "url": "redirect.html?url=https%3A%2F%2Fkcbn.bus-navigation.jp%2Fwgsys%2Fwgp%2Fbus.htm%3FtabName%3DsignpoleTab%26selectedLandmarkCatCd%3D%26selectfiftySoundCharacter%3D%26from%3D%25E5%258D%2597%25E9%2587%258E%25E5%25B7%259D%26fromType%3D1%26to%3D%26toType%3D%26locale%3Dja%26fromlat%3D%26fromlng%3D%26tolat%3D%26tolng%3D%26fromSignpoleKey%3D145428%26routeLayoutCd%3D%26bsid%3D2%26fromBusStopCd%3D%26toBusStopCd%3D%26mapFlag%3Dfalse%26existYn%3DN%26routeKey%3D%26nextDiagramFlag%3D0%26diaRevisedDate%3D",
       "icons": [
         {
-          "src": "images/icons/icon-192x192.png",
+          "src": "images/kawasaki.png",
           "sizes": "192x192"
         }
       ]
@@ -79,7 +79,7 @@
       "url": "redirect.html?url=https%3A%2F%2Fkcbn.bus-navigation.jp%2Fwgsys%2Fwgp%2Fbus.htm%3FtabName%3DsignpoleTab%26selectedLandmarkCatCd%3D%26selectfiftySoundCharacter%3D%26from%3D%25E5%258D%2597%25E9%2587%258E%25E5%25B7%259D%26fromType%3D1%26to%3D%26toType%3D%26locale%3Dja%26fromlat%3D%26fromlng%3D%26tolat%3D%26tolng%3D%26fromSignpoleKey%3D145427%26routeLayoutCd%3D%26bsid%3D2%26fromBusStopCd%3D%26toBusStopCd%3D%26mapFlag%3Dfalse%26existYn%3DN%26routeKey%3D%26nextDiagramFlag%3D0%26diaRevisedDate%3D",
       "icons": [
         {
-          "src": "images/icons/icon-192x192.png",
+          "src": "images/kawasaki.png",
           "sizes": "192x192"
         }
       ]
@@ -91,7 +91,7 @@
       "url": "redirect.html?url=https%3A%2F%2Ftokyu.bus-location.jp%2Fblsys%2Fnavi%3FVID%3Dtmi%26EID%3Dnt%26FID%3D%26DSMK%3D3139%26DSN%3D%25E5%25B0%258F%25E6%259D%2589%25E9%25A7%2585%25E5%2589%258D%26PRM%3D%26SCT%3D1%26RAMK%3D70",
       "icons": [
         {
-          "src": "images/icons/icon-192x192.png",
+          "src": "images/tokyu.png",
           "sizes": "192x192"
         }
       ]
@@ -103,7 +103,7 @@
       "url": "redirect.html?url=https%3A%2F%2Fkcbn.bus-navigation.jp%2Fwgsys%2Fwgp%2Fbus.htm%3FtabName%3DsignpoleTab%26selectedLandmarkCatCd%3D%26selectfiftySoundCharacter%3D%26from%3D%25E5%25B0%258F%25E6%259D%2589%25E9%25A7%2585%25E5%2589%258D%26fromType%3D1%26to%3D%26toType%3D%26locale%3Dja%26fromlat%3D%26fromlng%3D%26tolat%3D%26tolng%3D%26fromSignpoleKey%3D144725%26routeLayoutCd%3D%26bsid%3D2%26fromBusStopCd%3D%26toBusStopCd%3D%26mapFlag%3Dfalse%26existYn%3DN%26routeKey%3D%26nextDiagramFlag%3D0%26diaRevisedDate%3D",
       "icons": [
         {
-          "src": "images/icons/icon-192x192.png",
+          "src": "images/kawasaki.png",
           "sizes": "192x192"
         }
       ]
