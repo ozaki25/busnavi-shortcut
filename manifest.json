@@ -73,18 +73,6 @@
       ]
     },
     {
-      "name": "南野川~鷺沼(市営)",
-      "short_name": "南野川〜鷺沼駅(川崎市営バス)",
-      "description": "南野川〜鷺沼駅(川崎市営バス)",
-      "url": "redirect.html?url=https%3A%2F%2Fkcbn.bus-navigation.jp%2Fwgsys%2Fwgp%2Fbus.htm%3FtabName%3DsignpoleTab%26selectedLandmarkCatCd%3D%26selectfiftySoundCharacter%3D%26from%3D%25E5%258D%2597%25E9%2587%258E%25E5%25B7%259D%26fromType%3D1%26to%3D%26toType%3D%26locale%3Dja%26fromlat%3D%26fromlng%3D%26tolat%3D%26tolng%3D%26fromSignpoleKey%3D145427%26routeLayoutCd%3D%26bsid%3D2%26fromBusStopCd%3D%26toBusStopCd%3D%26mapFlag%3Dfalse%26existYn%3DN%26routeKey%3D%26nextDiagramFlag%3D0%26diaRevisedDate%3D",
-      "icons": [
-        {
-          "src": "images/kawasaki.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
       "name": "小杉駅前(東急)",
       "short_name": "小杉駅前(東急バス)",
       "description": "小杉駅前(東急バス)",
