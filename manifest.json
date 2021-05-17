@@ -49,10 +49,10 @@
   ],
   "shortcuts": [
     {
-      "name": "shortcut sample",
-      "short_name": "sample",
-      "description": "Shortcut sample page",
-      "url": "shortcut.html",
+      "name": "南野川(東急)",
+      "short_name": "南野川(東急バス)",
+      "description": "南野川(東急バス)",
+      "url": "redirext.html?url=https://tokyu.bus-location.jp/blsys/navi?VID=rsl&EID=nt&PRM=&SCT=1&DSMK=3030&DSN=%E5%8D%97%E9%87%8E%E5%B7%9D&ASMK=0&ASN=null&FDSN=0&FASN=0&RAMK=70",
       "icons": [
         {
           "src": "images/icons/icon-192x192.png",
